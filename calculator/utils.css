@@ -1,0 +1,22 @@
+.head_text {
+  text-align: center;
+}
+.container {
+  text-align: center;
+  padding: 2px;
+  background-color: brown;
+}
+.button {
+  margin: 2px;
+  padding: 25px;
+  border: 4px solid black;
+}
+.input {
+  padding-left: 135px;
+  padding-top: 30px;
+  border: 4px solid black;
+}
+.buttonC {
+  padding-left: 137px;
+  padding-right: 137px;
+}
